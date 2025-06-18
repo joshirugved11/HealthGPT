@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+transformers
+torch
+tokenizers
+pydantic
+numpy
+scipy
+tqdm
+pandas
+scikit-learn
+python-dotenv
